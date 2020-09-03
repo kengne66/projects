@@ -1,0 +1,21 @@
+iProject 12
+
+1. A script is an excutable file including a serie of commands
+
+2. Passing a script as argument to bash command allow to execute the script without execute permission
+
+3. For loop  is a structure opened by for and closed by loop, that repeats a sequence of instructions until a specific condition is met.
+
+4. An if statetement is closee by the the word fi
+
+5. some of my expreinces using awk and sed commands;
+	- Reports on users and their goups
+	- reports on sudoers with ther relative permissions
+	- Scripts for server inventory
+	- Checking or modifiying the SElinux state
+
+
+
+6. https://github.com/kengne66/Hardening.git
+
+7. 
