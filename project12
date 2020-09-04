@@ -9,13 +9,26 @@ iProject 12
 4. An if statetement is closee by the the word fi
 
 5. some of my expreinces using awk and sed commands;
-	- Reports on users and their goups
-	- reports on sudoers with ther relative permissions
-	- Scripts for server inventory
-	- Checking or modifiying the SElinux state
+
+	awk
+	- Using a fields separation option to get the data in colums
+	- Using patern to fielter data
+	- Use of the print command to output data
+	- Counting the number of colums
+	- Getting data use a condition similar to if statment
+	- Use of the instructions Begin and End
+	- Setting a field seperator to organise the output in column
+	- manage a .csv file
+
+	Sed
+	- Inserting a text or line in a file
+	- Deleting a text or a line in a file
+	- Sustitute a text by another one in a file
+	- counting the number of line
+	
 
 
 
 6. https://github.com/kengne66/Hardening.git
 
-7. 
+
